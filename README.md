@@ -1,5 +1,4 @@
 # web-hello-06
-
 - [맥 개발환경 세팅](https://subicura.com/mac/)
 
 
@@ -8,3 +7,10 @@
 - 웹개발을 하셨음. (1년 반)
   - Python, jQuery
 - 취미는 운동 테니스, 포켓몬고
+## 최연정님
+
+## 부산에서 활동하셨음
+## 웹개발 3년차
+## 취미는 운동(달리기, 테니스)
+
+# VSCODE - 설치 시 code로 열기 체크, ESlint, Prettier 설정
